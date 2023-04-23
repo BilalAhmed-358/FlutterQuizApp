@@ -1,16 +1,25 @@
-# flutter_complete_guide
+# Flutter Quiz App
 
-A new Flutter project.
+A simple flutter quiz app as an introduction to flutter
 
-## Getting Started
+## Running the app
 
-This project is a starting point for a Flutter application.
+1. Start the Android Emulator 
+    ![](./Screenshots/startingTheEmulator.png)
+2. The emulator has started
+    ![](./Screenshots/emulatorStarted.png) 
+3. Select the emulator device from your vscode panel (Like here I've selected Pixel 3)
+    ![](./Screenshots/selectingEmulatorDevice.png)
+4. Open the main.dart file
+5. Go to Run > Run without Debugging
+   ![](./Screenshots/runWithoutDebugging.png)
+6. Wait for the App to be built
+    ![](./Screenshots/buildingApp.png)
+1. Attend the Quiz
+   ![](./Screenshots/attendingQuiz.png)
+8. The final result
+    ![](./Screenshots/quizResult.png)
+   
+## Future Plan
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Adding the score calculating functionality to the app
